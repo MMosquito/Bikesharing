@@ -11,14 +11,23 @@ The information gathered to help make the qualified decision is tripduration, st
 
 The number of bikes left at a specific endstation can be viewed by a map. 
 
+<img width="477" alt="CitiBike Map" src="https://user-images.githubusercontent.com/14171474/226215219-39016941-eaf9-4277-9e97-ca38b6589b43.png">
+
 The trip duration by users can be easily tracked by the number of bikes shared for a specific number of minutes. Identifying the number of minutes of a tirp. 
+
+<img width="508" alt="Checkout Times for Users" src="https://user-images.githubusercontent.com/14171474/226215238-85118940-b23c-4bb2-bea9-c2a049608857.png">
+
 
 Gender study results in easily identify that males are the most popular customer. 
 
+<img width="1515" alt="Checkout Times by Gender" src="https://user-images.githubusercontent.com/14171474/226215253-92ca0cea-c584-4ec7-9b49-9b9ad450fd74.png">
+
+
 Multiple color graphs easily show the popular hours, days of the week, and gender.  
 
+<img width="527" alt="Trips By Gender" src="https://user-images.githubusercontent.com/14171474/226215268-ca5d9d59-3a7b-4079-8263-877a878257ed.png">
 
-
+<img width="494" alt="User Trips by Gender" src="https://user-images.githubusercontent.com/14171474/226215274-2aaa94d9-b2b2-4ed6-853c-7fa2ae7c0d3a.png">
 
 
 
